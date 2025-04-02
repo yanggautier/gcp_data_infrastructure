@@ -1,6 +1,3 @@
--- Create the database
-CREATE DATABASE IF NOT EXISTS online_shop;
-
 USE online_shop;
 
 -- Create the customer table
